@@ -220,13 +220,13 @@ li span {
 .partners-img-wrap {}
 
 .first-img {
-    background-image: url("http://food-factory.kr/images/main/sec03_img_00.png");
+    background-image: url("./img/sec03_img_05.png");
     background-repeat: no-repeat;
 
 }
 
 .second-img {
-    background-image: url("http://food-factory.kr/images/main/sec03_img_01.png");
+    background-image: url("./img/sec03_img_06.png");
     background-repeat: no-repeat;
 }
 
